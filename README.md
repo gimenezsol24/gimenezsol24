@@ -11,7 +11,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gimenezsol24&label=Profile%20views&color=d6469b&style=flat" alt="profile views" />
   &nbsp;
   <a href="https://webbzi.com"><img src="https://img.shields.io/badge/Website-webbzi.com-d6469b?style=flat&logo=google-chrome&logoColor=white" alt="website" /></a>
 </p>
