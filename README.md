@@ -59,7 +59,8 @@
 ## 📊 Activity
 
 - 📈 **1,400+ contributions in the past year** (1,288 commits, 75 pull requests).
-- 🔒 The majority live in **private client repositories**, so they are not all visible on the public graph. The live links above are the real results.
+- 🔒 The majority live in **private client repositories**. Above you can see some of my public work.
+- 
 
 ---
 
