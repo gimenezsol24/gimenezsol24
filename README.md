@@ -68,6 +68,6 @@
 
 - 📧 **gimenezsol24@gmail.com**
 - 💬 **WhatsApp** +34 681 932 962
-- 🌐 **Website / studio:** [webbzi.com](https://webbzi.com)
+- 🌐 **Website** [solgarcia.webbzi.com](https://solgarcia.webbzi.com)
 
 > Most of my work lives in private client repositories. The links above are live production sites.
